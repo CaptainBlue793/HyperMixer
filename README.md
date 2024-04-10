@@ -1,2 +1,2 @@
 # HyperMixer
-C:\Users\palak\OneDrive\Desktop\Academics\NLP\NLP Project - HyperMixer
+Comparision of Dataset Training Accuracy and Running of HyperMixer vs MLPMixer vs Transformers
